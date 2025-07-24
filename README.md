@@ -16,4 +16,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ### Frames 
 
-We are usinf FFmpeg for frame frame break down of the video 
+We are using FFmpeg for frame by frame break down of the video 

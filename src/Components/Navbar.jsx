@@ -23,7 +23,7 @@ const Navbar = () => {
             <div>
                     <a href="#home" className="flex itmes-center gap-2">
                         <img src="/images/logo.png" alt="logo" />
-                        <p>Velvet  Pour</p>
+                        <p>Cockteil Haus</p>
                     </a>
                     <ul>
                         {navLinks.map((link)=> (
